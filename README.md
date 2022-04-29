@@ -11,7 +11,7 @@ This data is in [conllup](https://universaldependencies.org/ext-format.html) for
 
 We provide a python script to combine such a UP file with its corresponding UD file to produce the desired 13 column `.conllup` file. The script is available in [tools](https://github.com/UniversalPropositions/tools) repository: `up2/merge_ud_up.py`. Follow the procedure:
 - Download UD from https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-4611 
-- `git clone https://github.com/UniversalPropositions/Japanese-GSD.git`
+- `git clone https://github.com/UniversalPropositions/UP_Japanese-GSD.git`
 - `git clone https://github.com/UniversalPropositions/tools.git`
 - `cd tools`
     - Setup tools as per the instructions in [README.md](https://github.com/UniversalPropositions/tools#universal-propositions---tools).
